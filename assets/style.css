@@ -10,3 +10,7 @@
 .navar-brand{
 	color:white
 }
+
+.navar-brand img {
+	display: block;
+}
