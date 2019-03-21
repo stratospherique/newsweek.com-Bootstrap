@@ -5,12 +5,12 @@
 
 .news-header a{
 	color:white;
+	font-size: 14px;
 }
 
-.navar-brand{
-	color:white
+.subscribe{
+	color:red;
+	font-weight: bold;
 }
 
-.navar-brand img {
-	display: block;
-}
+
