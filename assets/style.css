@@ -5,18 +5,22 @@
 
 .news-header a{
 	color:white;
-	font-size: .6rem;
+	font-size: calcem(12px);
 	font-weight: bold;
 }
 
 .subscribe{
 	color:red;
 	font-weight: bold;
-	font-size: .6rem;
+	font-size: calcem(12px);
 	
 }
 
 .site-brand {
-	width: 80px;
+	width: 150px;
+	height: 30px;
 }
 
+.navbar-toggler i {
+	color:white;
+}
