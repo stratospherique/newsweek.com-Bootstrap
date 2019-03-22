@@ -32,3 +32,15 @@
 .nav a {
 	color:black;
 }
+
+#inputsm {
+	width: 80px;
+	padding-right: 20px;
+	padding-left: 5px;
+	background-image:url(https://cdn1.iconfinder.com/data/icons/hawcons/32/698956-icon-111-search-128.png);
+	background-position: right center;
+	background-size: 25px;
+	background-repeat: no-repeat;
+	border: transparent;
+	
+}
