@@ -44,3 +44,15 @@
 	border: transparent;
 	
 }
+
+.mo-sto h4 {
+	font-size: calc(17px);
+}
+
+.mo-sto a {
+	color:black;
+}
+
+.mo-sto p {
+	font-size: calc(13px);
+}
