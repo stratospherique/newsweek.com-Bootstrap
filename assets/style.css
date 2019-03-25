@@ -78,3 +78,7 @@ a:hover{
 	border:none;
 	cursor: pointer;
 }
+
+.minis {
+	min-width: 500px;
+}
