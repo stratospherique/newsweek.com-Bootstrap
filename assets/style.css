@@ -1,3 +1,15 @@
+a{
+	color:black;
+	font-weight: bold;
+}
+
+a:hover{
+	color:black;
+	text-decoration: none;
+	border-bottom: 3px solid red;
+
+}
+
 .news-header{
 	background: red;
 	color:white;
@@ -59,4 +71,10 @@
 
 .red {
 	background-color: red;
+}
+
+.hover-red:hover{
+	color:red;
+	border:none;
+	cursor: pointer;
 }
