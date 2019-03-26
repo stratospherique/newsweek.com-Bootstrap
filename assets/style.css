@@ -1,0 +1,93 @@
+body{
+	max-width:1300px;
+	margin:0 auto;
+}
+
+a{
+	color:black;
+	font-weight: bold;
+}
+
+a:hover{
+	color:black;
+	text-decoration: none;
+	border-bottom: 3px solid red;
+
+}
+
+.news-header{
+	background: red;
+	color:white;
+}
+
+.news-header a{
+	color:white;
+	font-size: calcem(12px);
+	font-weight: bold;
+}
+
+.boldie{
+	font-weight: bold;
+}
+
+.subscribe{
+	color:red;
+	font-weight: bold;
+	font-size: calcem(12px);
+	
+}
+
+.site-brand {
+	width: 150px;
+	height: 30px;
+}
+
+.navbar-toggler i {
+	color:white;
+}
+
+.white {
+	background-color: white;
+}
+
+.nav a {
+	color:black;
+}
+
+#inputsm {
+	width: 80px;
+	padding-right: 20px;
+	padding-left: 5px;
+	background-image:url(https://cdn1.iconfinder.com/data/icons/hawcons/32/698956-icon-111-search-128.png);
+	background-position: right center;
+	background-size: 25px;
+	background-repeat: no-repeat;
+	border: transparent;
+	
+}
+
+.mo-sto h4 {
+	font-size: calc(17px);
+}
+
+.mo-sto a {
+	color:black;
+}
+
+.mo-sto p {
+	font-size: calc(13px);
+}
+
+.red {
+	background-color: red;
+}
+
+.hover-red:hover{
+	color:red;
+	border:none;
+	cursor: pointer;
+}
+
+.minis {
+	/* min-width: 500px; */
+}
